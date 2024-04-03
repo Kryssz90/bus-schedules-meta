@@ -1,8 +1,3 @@
 {
-    "latestVersion": "2.0.28",
-    "message": {
-        "type": "info",
-        "title": "Az új verzió elérhető!",
-        "message": "Az alkalmazás új verziója elérhető. Kérjük, frissítse az alkalmazást a legújabb verzióra."
-    }
+    "latestVersion": "2.0.28"
 }
